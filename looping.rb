@@ -3,4 +3,5 @@ def _while
   while counter < 10 
   puts "Wing"
   counter = counter + 1 
-  puts "#{counter}"
+  puts "#{counter} moves complete!"
+end
