@@ -12,4 +12,5 @@
 
 
 def corn
+  counter = 90
   
