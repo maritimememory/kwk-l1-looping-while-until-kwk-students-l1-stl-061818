@@ -13,4 +13,5 @@
 
 def corn
   counter = 90
-  
+  until counter = 90
+  puts
