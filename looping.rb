@@ -13,5 +13,6 @@
 
 def corn
   counter = 90
-  until counter = 90
-  puts
+  until counter == 90
+  puts "daisy is best girl change my mind"
+  
